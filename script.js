@@ -89,7 +89,7 @@ function paintBody(color) {
 }*/
 
 
-let interval = setInterval(trashConsole, 10000);
+/*let interval = setInterval(trashConsole, 10000);
 
 let changeButton = document.querySelector(".btn");
 changeButton.onclick = function () {
@@ -97,4 +97,4 @@ changeButton.onclick = function () {
 }
 function trashConsole() {
   console.log(Math.random());
-}
+}*/
